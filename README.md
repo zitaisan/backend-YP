@@ -19,7 +19,6 @@ The projects in this repository use the following technologies and tools:
 - **Gunicorn**
 - **Git & GitHub**
 - **CI/CD (GitHub Actions)**
-- **Yandex.Cloud / Cloud technologies**
 - **Unit testing (Pytest / Unittest)**
 - **ORM**
 - **JWT, Tokens, Authentication**
